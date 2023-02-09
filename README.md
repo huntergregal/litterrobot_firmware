@@ -7,5 +7,6 @@ Pull requests of dumps welcome! If you would like to share a firmware dump for a
 
 Happy reversing :)
 
+Special thanks to the https://github.com/natekspencer/pylitterbot project!
 # Notice
 Not affiliated with Whisker or Litter Robot (TM) in any way
